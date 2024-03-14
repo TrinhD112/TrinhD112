@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Trinh Dat 
 - 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning REACT and Tailwind
+- 🌱 Just started coding
 - 📫 How to reach me: Contact via email: trinhdat2134@gmail.com or tel: +1 929 233 8415
 
 <!---
